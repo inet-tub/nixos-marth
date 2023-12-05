@@ -133,7 +133,7 @@
           "wheel"
         ];
       };
-      guest = {
+      conference = {
         uid = 1001;
         isNormalUser = true;
       };
