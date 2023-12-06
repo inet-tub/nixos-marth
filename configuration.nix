@@ -20,13 +20,6 @@
       "net.ipv4.ip_forward" = 1;
       "net.ipv6.conf.all.forwarding" = 1;
     };
-    initrd.luks.devices = {
-      root = {
-        device = "/dev/disk/by-uuid/ecace02c-04ee-471a-9d3a-f841d1439304";
-        preLVM = true;
-        allowDiscards = true;
-      };
-    };
   };
   i18n = {
     supportedLocales = [
