@@ -66,7 +66,7 @@
       pciutils
       (python3Full.withPackages (ps: with ps; [ pip ]))
       remmina
-      texlive.comvined.scheme-full
+      texlive.combined.scheme-full
       thunderbird
       unzip
       vlc

@@ -11,7 +11,7 @@
   # # installation-device = "sda";
   #
   # # declare the hostname of the machine
-  # hostname = "faub-laptop-zehn";
+  # hostname = "marth";
   #
   # # Find out RAM, and set an appropriate amount.
   # # You can check this with `free.
